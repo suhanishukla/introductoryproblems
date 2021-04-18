@@ -4,7 +4,7 @@
 #Print one integer: the length of the longest repetition. 
 
 def longestrepetition(DNA):
-    occurrences = 1.          #occurrences of a character
+    occurrences = 1           #occurrences of a character
     final = 0                 #final answer
     
     for i in range(0, len(DNA) - 1):        
