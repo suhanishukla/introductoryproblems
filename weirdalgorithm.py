@@ -10,5 +10,6 @@ def weirdalgorithm(n):
         else: 
             n = n * 3 + 1           #if n is odd then 3n+1
     print(n)
-  
+
+#testingcode
 weirdalgorithm(3)
