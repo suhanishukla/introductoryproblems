@@ -1,4 +1,6 @@
 #WeirdAlgorithm
+#Input of n, a positive integer. Algorithm divides by 2 if n is even, multiplies by 3 and adds 1 if n is odd. Repeats until n is 1. 
+#Simulate algorithm. 
 
 def weirdalgorithm(n): 
     while n != 1: 
@@ -10,5 +12,3 @@ def weirdalgorithm(n):
     print(n)
   
 weirdalgorithm(3)
-    
-
