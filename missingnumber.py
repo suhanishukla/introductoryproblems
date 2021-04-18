@@ -1,3 +1,5 @@
+#MissingNumber
+#Given all numbers 1,2, ..., n except one. Find the missing number.
 
 def FindMissingNum(list1): 
     total_list1 = sum(list1)            #find the sum of all the elements of list1 
