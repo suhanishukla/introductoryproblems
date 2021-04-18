@@ -1,2 +1,3 @@
 # introductoryproblems
-# introductory programming problems (USACO bronze/silver level)
+
+introductory programming problems (USACO bronze/silver level)
