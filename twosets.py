@@ -1,4 +1,4 @@
-#Two Sets (casework took forever)
+#Two Sets 
 #Divide the numbers 1,2,...,n into two sets of equal sum. Only input is n. 
 #Print YES if possible, NO if not. If YES, print subsets and number of elements in each subset. 
 #Only possible if n(n+1)/2 is divisible by 2, meaning that n = 0 mod 4 or n = 3 mod 4.
