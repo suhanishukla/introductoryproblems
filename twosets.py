@@ -1,7 +1,7 @@
 #Two Sets (casework took forever)
 #Divide the numbers 1,2,...,n into two sets of equal sum. Only input is n. 
 #Print YES if possible, NO if not. If YES, print subsets and number of elements in each subset. 
-#So basically this only possible if n(n+1)/2 is divisible by 2, meaning that n = 0 mod 4 or n = 3 mod 4.
+#Only possible if n(n+1)/2 is divisible by 2, meaning that n = 0 mod 4 or n = 3 mod 4.
 #case n = 0 mod 4: split list in half, take all even indices of first half and odd of second half to create set 1, odd indices of first half and even of second for set 2
 #case n = 3 mod 4: n = 4m - 1, and take m, 2m, and 3m out of list. Split remaining list in half and do same as other case. Add m and 2m to first set, and 3m to second. 
 
