@@ -1,4 +1,4 @@
-#MissingNumber
+#MissingNumber (the more exciting solution imo) 
 #Given all numbers 1,2, ..., n except one. Find the missing number.
 
 def FindMissingNum(list1): 
